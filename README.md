@@ -1,24 +1,4 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+css링크와 자바스크립 링크를 걸떄  ror을 이용하여 자기소개홈페이지를 여는 index에서 따로 설정을 해주지 않아도 연결을 해주는걸로 알고있으나 제 컴퓨터에서 자꾸 오류가 생겨 원래 index 파일의 링크를 걸었더니 파일이 열렸습니다.
+이유를 잘 모르겠습니다.
+또한 <%= %>로 이미지를 넣으려고 하면 localhost에서 오류가나  연결이 되지 않습니다. 제가 css링크를 <%= %>로 하지 않아서 그런것 같습니다. 
+같은 이유로 자바스크립트 또한 작동이 되지 않는것 같습니다.
